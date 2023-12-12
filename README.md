@@ -37,3 +37,7 @@ While building Dew, several advancements for functionalities would complement th
 * Database that stores each transaction hash against the name obtained from the Google OAuth login, to have a comprehensive overview of who paid when and how much. This is especially useful if dealing with legacy finance offices, which may not be very familiar with Web3 and how it works.
 * Memberships provide exclusive content such as videos, tutorials, or any other materials. This would add incentives for people to purchase memberships.
 * Dew only works if one bridges their XRP onto the sidechain and connects it to their MetaMask, implementing a bridge within the app would be immense for the longevitiy and user experience of the app.
+* 
+
+### License
+MIT
